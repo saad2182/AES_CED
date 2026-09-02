@@ -1,0 +1,40 @@
+# Synopsys VCS build products
+build/
+work/
+csrc/
+simv
+simv.daidir/
+AN.DB/
+DVEfiles/
+ucli.key
+synopsys_sim.setup
+.vlogan*
+._*
+
+# Simulation output
+*.vcd
+*.vpd
+*.fsdb
+*.log
+*.key
+*.daidir/
+
+# Native/object databases
+*.a
+*.db
+*.kdb
+*.o
+*.sdb
+*.so
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]

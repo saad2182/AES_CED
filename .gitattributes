@@ -1,0 +1,10 @@
+* text=auto
+
+*.sv text eol=lf
+*.vhd text eol=lf
+*.py text eol=lf
+Makefile text eol=lf
+
+*.docx binary
+*.pdf binary
+*.png binary

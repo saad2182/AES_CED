@@ -1,4 +1,4 @@
-# AES_CED: Concurrent Error Detection for AES-128
+# RIPO-AES: Concurrent Error Detection for AES-128
 
 An academic hardware-security prototype that adds **time-redundant concurrent error detection (CED)** and a configurable **fault-injection harness** to an iterative AES-128 implementation.
 

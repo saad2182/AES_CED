@@ -196,4 +196,4 @@ Portions of the AES VHDL baseline identify Michael Muehlberghuber and the Integr
 
 ## License
 
-No software license was present in the original archive, so no license has been added here. Copyright remains with the respective authors; obtain permission before reuse or redistribution beyond applicable academic or fair-use contexts.
+No software license was present in the original archive, so no license has been added here. Copyright remains with the respective authors. Obtain permission before reuse or redistribution beyond applicable academic or fair-use contexts.
